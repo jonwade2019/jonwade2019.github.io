@@ -1,11 +1,31 @@
-# Jon's css world...
+# The Tactile theme
 
+[![Build Status](https://travis-ci.org/pages-themes/tactile.svg?branch=master)](https://travis-ci.org/pages-themes/tactile) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-tactile.svg)](https://badge.fury.io/rb/jekyll-theme-tactile)
+
+*Tactile is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/tactile), or even [use it today](#usage).*
+
+![Thumbnail of Tactile](thumbnail.png)
+
+## Usage
+
+To use the Tactile theme:
+
+1. Add the following to your site's `_config.yml`:
+
+    ```yml
+    theme: jekyll-theme-tactile
+    ```
+
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
 ## Customizing
 
 ### Configuration variables
 
-[Copy the original template](https://github.com/pages-themes/tactile/blob/master/_layouts/default.html)
 Tactile will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
