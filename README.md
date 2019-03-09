@@ -1,12 +1,31 @@
-# Jon's css world...
+
+## 渐变（gradient）
+
+·[box-decoration-break文字颜色渐变支持换行](https://jonwade2019.github.io/css_world/gradient/box-decoration-break.html)
+·[渐变的边框](https://jonwade2019.github.io/css_world/gradient/box-decoration-break.html)
 
 
-## Customizing
 
-### Configuration variables
+## css3动画
 
-[Copy the original template](https://github.com/pages-themes/tactile/blob/master/_layouts/default.html)
-Tactile will respect the following variables, if set in your site's `_config.yml`:
+·[抛物线运动](https://jonwade2019.github.io/css_world/gradient/box-decoration-break.html)
+
+
+## 菜单元素（input）
+
+·[改变输入框光标的颜色](https://jonwade2019.github.io/css_world/gradient/box-decoration-break.html)
+
+
+
+
+### ------
+### ------
+### ------
+### ------
+### ------
+### ------
+### ------
+### ------
 
 ```yml
 title: [The title of your site]
