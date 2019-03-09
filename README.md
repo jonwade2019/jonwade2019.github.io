@@ -27,6 +27,9 @@
 ### ------
 ### ------
 
+[搭网站参考这个](https://zhuanlan.zhihu.com/p/28321740)
+
+
 ```yml
 title: [The title of your site]
 description: [A short description of your site's purpose]
